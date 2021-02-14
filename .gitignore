@@ -1,3 +1,11 @@
+# temp and VS folders
+src/.vs
+src/Lib
+src/Temp
+src/x64
+*.sln
+*.vcxproj.user
+
 # Prerequisites
 *.d
 
