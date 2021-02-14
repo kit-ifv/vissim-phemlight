@@ -5,6 +5,7 @@ src/Temp
 src/x64
 *.sln
 *.vcxproj.user
+*.zip
 
 # Prerequisites
 *.d
